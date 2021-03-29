@@ -1,6 +1,6 @@
 # :mountain: Depth-aware Convolution for PyTorch
 An implementation depth-aware convolution in PyTorch from: [Depth-aware CNN for RGB-D Segmentation](https://arxiv.org/pdf/1803.06791.pdf).
-The convolution is entirely implemented with PyTorch components, it was not written as C extension, so it's not the fastest.
+The convolution is entirely implemented with PyTorch components, it was not written as a C extension, so it's not the fastest.
 
 ### Useful sources on convolutions:
 - [A Comprehensive Introduction to Different Types of Convolutions in Deep Learning](https://towardsdatascience.com/a-comprehensive-introduction-to-different-types-of-convolutions-in-deep-learning-669281e58215)
